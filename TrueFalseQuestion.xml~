@@ -1,7 +1,7 @@
 <question type="truefalse">
  <answer fraction="100">
     <text>true</text>
-    <feedback><text>Correct!</text></feedback>
+    <feedback><text>C'est validé</text></feedback>
  </answer>
  <answer fraction="0">
     <text>false</text>
