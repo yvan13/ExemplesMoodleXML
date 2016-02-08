@@ -9,13 +9,13 @@
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<subquestion>
-		<text>Premier item de la première paire</text>
+		<text>Premier item de la première paire bla</text>
 		<answer>
 			<text>Second item de le première paire</text>
 		</answer>
 	</subquestion>
 	<subquestion>
-		<text>Premier item de la seconde paire</text>
+		<text>Premier item de la seconde paire blabla</text>
 		<answer>
 			<text>Second item de la seconde paire</text>
 		</answer>
